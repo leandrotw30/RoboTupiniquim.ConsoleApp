@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboTupiniquim.ConsoleApp", "RoboTupiniquim.ConsoleApp\RoboTupiniquim.ConsoleApp.csproj", "{B6CCA57F-E501-40C6-9037-349F9E028E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CCA57F-E501-40C6-9037-349F9E028E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CCA57F-E501-40C6-9037-349F9E028E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CCA57F-E501-40C6-9037-349F9E028E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CCA57F-E501-40C6-9037-349F9E028E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B05EDDA-2572-47AF-82F5-3DFE3FCC48A3}
+	EndGlobalSection
+EndGlobal
